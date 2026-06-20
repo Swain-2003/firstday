@@ -1,4 +1,4 @@
 # firstday
 this is my first class ofgithub
 <br>
-Author = saroj kumar swain
+Author = saroj kumar swain & sagarika nayak
